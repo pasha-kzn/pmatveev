@@ -4,7 +4,8 @@ body {
   line-height: 26px;
   font-family: "Arial", sans-serif;
   color: #222222;
-
+}
+/*
   background: #ffffff url("img/bg-page.png") no-repeat top center;
 }
 
@@ -212,7 +213,7 @@ footer {
 
 .line-through {
   text-decoration: line-through;
-}
+}*/
 
 .overline {
   text-decoration: overline;
